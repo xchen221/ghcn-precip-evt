@@ -1,0 +1,6 @@
+# Raw station data is re-downloaded by src/01_get_data.py (URL and SHA-256 in data/raw/DOWNLOAD_INFO.txt)
+data/raw/*.csv
+data/processed/
+logs/
+results/*.npy
+__pycache__/

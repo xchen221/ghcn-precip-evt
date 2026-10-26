@@ -1,0 +1,9 @@
+url: https://www.ncei.noaa.gov/data/global-historical-climatology-network-daily/access/USC00190736.csv
+downloaded_utc: 2026-10-23T22:26:06Z
+bytes: 10641330
+sha256: baae721474ebad799361aefc591438e10ecaea42347d9cab03ee71747fcd9a05
+
+url: https://data.giss.nasa.gov/gistemp/tabledata_v4/GLB.Ts+dSST.csv
+downloaded_utc: 2026-10-23T23:20:32Z
+bytes: 12886
+sha256: 4c64eda288bce32b8d76926278f346ecea1e53506df8ee72a3d5accb0657c416
