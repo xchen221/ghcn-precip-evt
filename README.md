@@ -1,6 +1,6 @@
 # Extreme daily precipitation at Blue Hill, MA (GHCN-Daily, 1886–2025)
 
-A small, reproducible extreme-value analysis of annual-maximum and peaks-over-threshold
+A reproducible extreme-value analysis of annual-maximum and peaks-over-threshold
 daily precipitation at Blue Hill Observatory (GHCN-Daily `USC00190736`, Milton, MA).
 Estimators, return levels, confidence intervals and goodness-of-fit tests are written out
 explicitly in `src/evtlib.py` (NumPy/SciPy only, following Coles 2001) and checked against
